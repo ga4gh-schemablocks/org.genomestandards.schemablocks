@@ -17,7 +17,7 @@ permalink: /index.html
 
 ---
 
-# Please visit [beta.schemablocks.org](http://beta.schemablocks.org) for the updated  verion of the {S}[B] website
+# Please visit [schemablocks.org](http://schemablocks.org) for the updated  verion of the {S}[B] website
 
 ---
 
