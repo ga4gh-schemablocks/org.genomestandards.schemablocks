@@ -3,21 +3,9 @@ layout: default
 permalink: /index.html
 ---
 
-{% comment %}
-################################################################################
-	
-	The template for the index page is thought to provide both the option for
-	custom content, as well as a mechanism for the automated adding of excerpt
-	page links for other pages labeled for the "index" category.
-	
-	Please add your content in Markdown or HTML below.
-
-################################################################################
-{% endcomment %}
-
 ---
 
-# Please visit [schemablocks.org](http://schemablocks.org) for the updated  verion of the {S}[B] website
+# Please visit [genomestandards.org](http://genomestandards.org) for the successor of the {S}[B] website
 
 ---
 
@@ -37,7 +25,7 @@ complete data schema but rather to provide the object vocabulary and semantics
 for a large range of developments.
 
 The SchemaBlocks site can be accessed though the permanent link 
-[schemablocks.org](http://schemablocks.org). More information about the 
+[schemablocks.genomestandards.org](http://schemablocks.genomestandards.org). More information about the 
 different products & formats can be found on the workstream sites. For 
 reference, some of the original information about recommended formats and 
 object hierarchies is kept in the 
