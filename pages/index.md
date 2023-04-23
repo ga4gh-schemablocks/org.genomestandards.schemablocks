@@ -13,7 +13,7 @@ permalink: /index.html
 
 SchemaBlocks is a "__cross-workstreams, cross-drivers__" community which works on the documentation of data schema components, standards and procedures with consensus support from GA4GH members.
 
-<img style="float: left; margin: 20px 20px 10px 0px; width: 60px; clear: none;" src="{{ "assets/img/logo-schemablocks-120x120-no-logo.png" | relative_url}}" />Launched in December 2018, this project is still to be considered a "community 
+<img style="float: left; margin: 20px 20px 10px 0px; width: 60px; clear: none;" src="{{ "assets/img/logo-schemablocks-280x280.png" | relative_url}}" />Launched in December 2018, this project is still to be considered a "community 
 initiative", with developing participation, leadership and governance 
 structures. At its current stage, the documents can __not__ be considered 
 "__authoritative GA4GH recommendations__" but rather represent documentation 
