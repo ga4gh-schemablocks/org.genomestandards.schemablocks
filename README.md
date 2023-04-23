@@ -1,5 +1,5 @@
 # ga4gh-schemablocks.github.io
-#### Website repository of the [GA4GH SchemaBlocks Project](http://schemablocks.org)
+#### Website repository of the [GA4GH SchemaBlocks Project](http://schemablocks.genomestandards.org)
 
 This repository contains documentation and general information pages of the SchemaBlocks project:
 
@@ -8,4 +8,4 @@ This repository contains documentation and general information pages of the Sche
 
 The source files in this project are auto-generated into the website through Github's "Jekyll" system. The website uses the [template](https://github.com/progenetix/progenetix-site-template) from the Progenetix project.
 
-The rendered website is accessible as [schemablocks.org](http://schemablocks.org).
+The rendered website is accessible as [schemablocks.genomestandards.org](http://schemablocks.genomestandards.org).
